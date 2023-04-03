@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146364185078",
+    "project_id": "crds-d88db",
+    "storage_bucket": "crds-d88db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146364185078:android:e31757941f127a97f4efd7",
+        "android_client_info": {
+          "package_name": "com.example.rcd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146364185078-92qdua78k1krdv3eip4bb97klq90nbb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDStCFWW0KjfnVZVO3yalT8jAfdadzt1i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146364185078-92qdua78k1krdv3eip4bb97klq90nbb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
